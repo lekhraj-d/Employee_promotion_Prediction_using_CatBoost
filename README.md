@@ -45,6 +45,6 @@ Metric(s): F1 score
 </h2>
 Split the Training  dataset  into Two parts train, and cross validation with 70% and 30% of data respectively
 
-<h2>Code</h2>
-<p>Main code file is Employee_promotion_Prediction_using_CatBoost.ipynb</p>
+<h2>3. Code</h2>
+<p>Main code file is <h4>Employee_promotion_Prediction_using_CatBoost.ipynb </h4></p>
 <p>other experiment scripts are under Other_code folder</p>
